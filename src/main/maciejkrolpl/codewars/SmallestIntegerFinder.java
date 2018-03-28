@@ -1,4 +1,4 @@
-package maciejkrolpl.codewars;
+package main.maciejkrolpl.codewars;
 
 public class SmallestIntegerFinder {
     public static int findSmallestInt(int[] args) {

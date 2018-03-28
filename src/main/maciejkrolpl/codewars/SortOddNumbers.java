@@ -1,4 +1,4 @@
-package maciejkrolpl.codewars;
+package main.maciejkrolpl.codewars;
 
 public class SortOddNumbers {
     public static int[] sortArray(int[] array) {

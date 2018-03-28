@@ -1,4 +1,4 @@
-package maciejkrolpl.codewars;
+package main.maciejkrolpl.codewars;
 
 import java.util.Arrays;
 
